@@ -1,4 +1,4 @@
-j# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,8 +10,8 @@ j# Welcome to Jekyll!
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.17.1"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme             : "mmistakes/minimal-mistakes@4.17.1"
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joe Cipolla"
 description              : "A collection of some of my work in data science."
-url                      : "https://joe-cipolla.github.io/"" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://joe-cipolla.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/joe-cipolla.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "joe-cipolla/joe-cipolla.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -35,8 +35,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook:              # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -109,7 +108,8 @@ analytics:
 author:
   name             : "Joe Cipolla"
   avatar           : /assets/profile_pic__circle.jpg
-  bio              : "deliberately practicing data science, musicianship, and peacemaking"
+  # bio              : "deliberately practicing data science, musicianship, and peacemaking"
+  bio              : "Data Science Portfolio"
   location         : "Houston, TX"
   # email            : JLCipolla@gmail.com
   links:
@@ -290,3 +290,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
