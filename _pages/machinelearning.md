@@ -6,5 +6,5 @@ author_profile: true
 header:
   image: /assets/images/robot_piano.jpg
   image_description: "photo of robot playing piano"
-  caption: "image: robot learning piano -  [**Unsplash**](https://unsplash.com/photos/U3sOwViXhkY)"
+  caption: "robot learning piano via [**Unsplash**](https://unsplash.com/photos/U3sOwViXhkY)  (copyright-free)"
 ---
