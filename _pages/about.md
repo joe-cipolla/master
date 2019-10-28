@@ -1,11 +1,18 @@
 ---
-title: "About"
 permalink: /about/
+title: "About"
+author_profile: true
 header:
-  image: "/assets/dan-meyers-w6X7XaolqA0-unsplash-crop2.jpg"
+  image: /assets/images/potter.jpg
+  image_description: "greyscale photo of man making clay bowls"
+  caption: "Photo credit: [**Unsplash**](https://unsplahs.com)"
 ---
 
-I'm a senior data scientist who excels at machine learning, exploratory analysis,
-and data visualizations.
+I'm a senior data scientist who excels at sculpting data
+and machine learning solutions to address real-world problems.
 
-etc, etc, etc
+My professional experience has primarily been focused in the
+energy industry, specifically US power and gas.
+
+I love to create and learn new things, and the continued
+pursuit of perfect practice of my craft.

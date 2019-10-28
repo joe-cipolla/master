@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Joe Cipolla"
 description              : "A collection of some of my work in data science."
 url                      : "https://joe-cipolla.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/joe-cipolla.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "joe-cipolla/joe-cipolla.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://joe-cipolla.github.io/
+      url: https://github.com/joe-cipolla/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
