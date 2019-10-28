@@ -5,7 +5,7 @@ author_profile: true
 header:
   image: /assets/images/potter.jpg
   image_description: "greyscale photo of man making clay bowls"
-  caption: "Photo credit: [**Unsplash**](https://unsplahs.com)"
+  caption: "image: man making clay bowls - [**Unsplash**](https://unsplash.com/photos/CwPO8Fr8914)"
 ---
 
 I'm a senior data scientist who excels at sculpting data
