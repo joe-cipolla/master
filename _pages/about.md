@@ -11,8 +11,9 @@ header:
 I'm a senior data scientist who excels at sculpting data
 and machine learning solutions to address real-world problems.
 
-My professional experience has primarily been focused on trading
-in the energy industry, specifically US power and gas.
+My professional experience has primarily been focused on
+price prediction and trading automation in the energy industry,
+specifically US power and gas.
 
-I love to create and learn new things, and the continued
+I love to create and learn new things, as well as the continued
 pursuit of perfect practice of my craft.
