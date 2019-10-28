@@ -16,4 +16,4 @@ price prediction and trading automation in the energy industry,
 specifically US power and gas.
 
 I love to create and learn new things, as well as the continued
-pursuit of perfect practice of my craft.
+pursuit of the perfect practice of my craft.
