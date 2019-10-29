@@ -22,8 +22,8 @@ industries using machine learning, fundamental market knowledge, and common sens
 Master of Science in Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.97/4.0
 
 **The University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2002 - May 2006
-Bachelor of Business Administration &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.75/4.0
-Major - Finance &nbsp;&nbsp;&nbsp; Minor - Accounting
+Bachelor of Business Administration &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.75/4.0 <br />
+Major - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor - Accounting
 
 <br/><br/>
 - - - -
