@@ -9,7 +9,7 @@ header:
   caption: "robot learning piano via [**Unsplash**](https://unsplash.com/photos/U3sOwViXhkY)  (copyright-free)"
 ---
 
-<!-- {% include base_path %}
+<!--- {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
