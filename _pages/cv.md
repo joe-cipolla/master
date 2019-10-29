@@ -4,7 +4,7 @@ title: "CV"
 author_profile: true
 ---
 
-<p style="text-align:center;"><span style="font-family:sans-serif; font-size:2em;">Joe Cipolla </p>
+<p style="text-align:center;"><span style="font-family:sans-serif; font-size:2em;">Joe Cipolla </span></p>
 <p style="text-align:center;"> **Website:**[https://joe-cipolla.github.io](https://joe-cipolla.github.io) </p>
 <p style="text-align:center;"> **Github:**[https://github.com/joe-cipolla](https://github.com/joe-cipolla) </p>
 <p style="text-align:center;"> **Email:**[JLCipolla@gmail.com](JLCipolla@gmail.com) </p>
