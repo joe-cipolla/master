@@ -9,7 +9,7 @@ author_profile: true
 
 **Website: **[https://joe-cipolla.github.io](https://joe-cipolla.github.io ) <br />
 **Github: **[https://github.com/joe-cipolla](https://github.com/joe-cipolla) <br />
-**Email: JLCipolla@gmail.com <br />
+**Email: **JLCipolla@gmail.com <br />
 Houston, TX USA
 {: style="text-align: right;"}
 - - - -
