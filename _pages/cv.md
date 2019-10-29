@@ -18,12 +18,14 @@ industries using machine learning, fundamental market knowledge, and common sens
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Education</span>
 
-**Northwestern University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2016 - September 2018
+**Northwestern University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2016 - Sep 2018
 Master of Science in Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.97/4.0
 
-**The University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2002 - May 2006
-Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.75/4.0
+**The University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2002 - May 2006
+Bachelor of Business Administration &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.75/4.0
+Major - Finance &nbsp;&nbsp;&nbsp; Minor - Accounting
 
+<br/><br/>
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Technical Experience</span>
 
@@ -86,6 +88,7 @@ Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 *	Modeled and reported the daily mark-to-market PnL, VaR, drawdown, and volumetric exposure
   matrices for physical crude waterborne cargoes and financial crude
 
+<br/><br/>
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Programming Languages</span>
 * Python - 4 years, R - 5 years, VBA - 11 years
@@ -95,6 +98,7 @@ Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 * Scikit-learn, Pandas, NumPy, Matplotlib, SQL, XGBoost, Git, Bash, TensorFlow/Keras, SAS, Visual Basic, Tableau, PowerWorld
 
 
+<br/><br/>
 - - - -
 **Email:** JLCipolla@gmail.com.com
 **Phone:** +1 713.751.9765
