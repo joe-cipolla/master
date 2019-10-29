@@ -5,13 +5,11 @@ author_profile: true
 ---
 
 <span style="font-family:sans-serif; font-size:2em;">Joe Cipolla </span> <br />
-{: style="text-align: center;"}
-
-**Website: **[https://joe-cipolla.github.io](https://joe-cipolla.github.io ) <br />
-**Github: **[https://github.com/joe-cipolla](https://github.com/joe-cipolla) <br />
-**Email: **JLCipolla@gmail.com <br />
+Website: [https://joe-cipolla.github.io](https://joe-cipolla.github.io ) <br />
+Github: [https://github.com/joe-cipolla](https://github.com/joe-cipolla) <br />
+Email: JLCipolla@gmail.com <br />
 Houston, TX USA
-{: style="text-align: right;"}
+{: style="text-align: center;"}
 - - - -
 - - - -
 
