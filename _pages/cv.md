@@ -2,10 +2,6 @@
 permalink: /cv/
 title: "CV"
 author_profile: true
-header:
-  image: /assets/images/potter.jpg
-  image_description: "greyscale photo of man making clay bowls"
-  caption: "man making clay bowls via [**Unsplash**](https://unsplash.com/photos/CwPO8Fr8914)"
 ---
 
 <center><span style="font-family:sans-serif; font-size:2.5em;">Joe Cipolla</span></center>
