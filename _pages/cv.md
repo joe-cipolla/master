@@ -4,11 +4,11 @@ title: "CV"
 author_profile: true
 ---
 
-<center><span style="font-family:sans-serif; font-size:2em;">Joe Cipolla</span></center>
-<center><span style="font-family:sans-serif; font-size:1em;">**Website:**[https://joe-cipolla.github.io](https://joe-cipolla.github.io)</span></center>
-<center><span style="font-family:sans-serif; font-size:1em;">**Github:**[https://github.com/joe-cipolla](https://github.com/joe-cipolla)</span></center>
-<center><span style="font-family:sans-serif; font-size:1em;">**Email:**[JLCipolla@gmail.com](JLCipolla@gmail.com)</span></center>
-<center><span style="font-family:sans-serif; font-size:1em;">Houston, TX USA</span></center>
+<p style="text-align:center;"><span style="font-family:sans-serif; font-size:2em;">Joe Cipolla </p>
+<p style="text-align:center;"> **Website:**[https://joe-cipolla.github.io](https://joe-cipolla.github.io) </p>
+<p style="text-align:center;"> **Github:**[https://github.com/joe-cipolla](https://github.com/joe-cipolla) </p>
+<p style="text-align:center;"> **Email:**[JLCipolla@gmail.com](JLCipolla@gmail.com) </p>
+<p style="text-align:center;"> Houston, TX USA </p>
 <br/><br/>
 
 <span style="font-family:sans-serif; font-size:1.5em;">Executive Summary</span> <br />
