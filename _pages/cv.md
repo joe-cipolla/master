@@ -7,7 +7,6 @@ author_profile: true
 <p style="text-align:center;"><span style="font-family:sans-serif; font-size:2em;">Joe Cipolla </span></p>
 - - - -
 - - - -
-<br/><br/>
 
 <span style="font-family:sans-serif; font-size:1.5em;">Executive Summary</span> <br />
 Analytically focused senior data scientist with extensive front and back office experience and a proven
@@ -25,7 +24,6 @@ Master of Science in Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA
 **The University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2002 - May 2006
 Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.75/4.0
 
-<br/><br/>
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Technical Experience</span>
 
@@ -39,6 +37,7 @@ Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 *	Building and optimizing price prediction models which feed automated trade system
 *	Rigorously backtesting trading strategies using customized simulation engine
 
+<br/><br/>
 **Maquarie Group** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
 *Senior Manager* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; November 2016 – June 2018
 *	Directed development of global trade surveillance system for commodities (metals, agricultural,
@@ -49,7 +48,7 @@ Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
   and testing potential influence on market prices and liquidity
 * Reported and advised senior management on regulatory risk management strategy
 
-
+<br/><br/>
 **Inertia Power LP (prev. West Oaks Power)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
 *Power Trader* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2011 – July 2016
 * Traded OTC swaps, up-to-congestion, virtual, and FTR transactions in the PJM, NYISO, ERCOT and
@@ -59,14 +58,14 @@ Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
   & fundamental data collection and data visualization
 * Monitored power market fundamentals to develop price forecast via multiple risk scenario analysis
 
-
+<br/><br/>
 **Windy Bay Power** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Austin, TX <br />
 *Senior Vice President - Power Trading* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2010 - Aug 2011
 *	Coordinated development of evolutionary algorithm-based model used to analyze nodal power markets
 *	Traded up-to-congestion, virtual, and OTC financial transactions
 *	Networked and managed internal/external software engineers, management, and retailers
 
-
+<br/><br/>
 **Citigroup Energy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
 *Northeast Cash Power Trader* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2008 - April 2010
 * Managed 6 months to bal-day power portfolio for all Northeast power pools
@@ -81,24 +80,21 @@ Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
   generation heat-rate efficiencies
 * Monitored and reported group daily PnL
 
-
+<br/><br/>
 **ConocoPhillips** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
 *Commercial Risk Analyst* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2006 - April 2007
 *	Modeled and reported the daily mark-to-market PnL, VaR, drawdown, and volumetric exposure
   matrices for physical crude waterborne cargoes and financial crude
 
-<br/><br/>
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Programming Languages</span>
 * Python - 4 years, R - 5 years, VBA - 11 years
 
-<br/><br/>
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Tools/Platforms</span>
 * Scikit-learn, Pandas, NumPy, Matplotlib, SQL, XGBoost, Git, Bash, TensorFlow/Keras, SAS, Visual Basic, Tableau, PowerWorld
 
 
-<br/><br/>
 - - - -
 **Email:** JLCipolla@gmail.com.com
 **Phone:** +1 713.751.9765
