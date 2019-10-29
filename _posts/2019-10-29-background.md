@@ -5,7 +5,7 @@ tags: [data science]
 excerpt: "background and motivation"
 ---
 
-# Post 1: Background and motivation
+# Background and motivation
 
 I have been coding for over 12 years now, the first half of that time period
 has been focused on building quick and dirty solutions for me or members of
