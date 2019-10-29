@@ -5,10 +5,8 @@ author_profile: true
 ---
 
 <p style="text-align:center;"><span style="font-family:sans-serif; font-size:2em;">Joe Cipolla </span></p>
-<p style="text-align:center;"> **Website:** [https://joe-cipolla.github.io](https://joe-cipolla.github.io) </p>
-<p style="text-align:center;"> **Github:** [https://github.com/joe-cipolla](https://github.com/joe-cipolla) </p>
-<p style="text-align:center;"> **Email:** [JLCipolla@gmail.com](JLCipolla@gmail.com) </p>
-<p style="text-align:center;"> Houston, TX USA </p>
+- - - -
+- - - -
 <br/><br/>
 
 <span style="font-family:sans-serif; font-size:1.5em;">Executive Summary</span> <br />
@@ -18,20 +16,18 @@ industries using machine learning, fundamental market knowledge, and common sens
 <br/><br/>
 
 
-<span style="font-family:sans-serif; font-size:1.5em;">Education</span>
 - - - -
+<span style="font-family:sans-serif; font-size:1.5em;">Education</span>
 
-**Northwestern University**                                September 2016 - September 2018
-Master of Science in Data Science
-GPA: 3.97/4.0
+**Northwestern University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2016 - September 2018
+Master of Science in Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.97/4.0
 
-**The University of Texas at Austin**                      September 2002 - May 2006
-Bachelor of Business Administration - Finance
-GPA: 3.75/4.0
+**The University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2002 - May 2006
+Bachelor of Business Administration - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.75/4.0
 
 <br/><br/>
-<span style="font-family:sans-serif; font-size:1.5em;">Technical Experience</span>
 - - - -
+<span style="font-family:sans-serif; font-size:1.5em;">Technical Experience</span>
 
 **M Lawrence Capital LLC** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
 *Managing Member* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2018 – Present
@@ -92,16 +88,17 @@ GPA: 3.75/4.0
   matrices for physical crude waterborne cargoes and financial crude
 
 <br/><br/>
-<span style="font-family:sans-serif; font-size:1.5em;">Programming Languages</span>
 - - - -
+<span style="font-family:sans-serif; font-size:1.5em;">Programming Languages</span>
 * Python - 4 years, R - 5 years, VBA - 11 years
 
-<span style="font-family:sans-serif; font-size:1.5em;">Tools/Platforms</span>
+<br/><br/>
 - - - -
+<span style="font-family:sans-serif; font-size:1.5em;">Tools/Platforms</span>
 * Scikit-learn, Pandas, NumPy, Matplotlib, SQL, XGBoost, Git, Bash, TensorFlow/Keras, SAS, Visual Basic, Tableau, PowerWorld
 
 
-
+<br/><br/>
 - - - -
 **Email:** JLCipolla@gmail.com.com
 **Phone:** +1 713.751.9765
