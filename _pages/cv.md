@@ -18,7 +18,7 @@ industries using machine learning, fundamental market knowledge, and common sens
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Education</span>
 
-**Northwestern University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2016 - Sep 2018
+**Northwestern University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2016 - Sep 2018 <br />
 Master of Science in Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.97/4.0
 
 **The University of Texas at Austin** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2002 - May 2006
@@ -100,5 +100,5 @@ Major - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor - Accounting
 
 <br/><br/>
 - - - -
-**Email:** JLCipolla@gmail.com.com
+**Email:** JLCipolla@gmail.com
 **Phone:** +1 713.751.9765
