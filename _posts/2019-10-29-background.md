@@ -3,6 +3,8 @@ title: "Initial Post"
 date: 2019-10-29
 tags: [data science]
 excerpt: "background and motivation"
+header:
+  teaser: /assets/images/teaser.jpg
 ---
 
 # Background and motivation

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joe Cipolla"
+title                    : "Skewed To The Left"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joe Cipolla"
@@ -24,10 +24,10 @@ description              : "A collection of some of my work in data science."
 url                      : "https://joe-cipolla.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/joe-cipolla.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "joe-cipolla/joe-cipolla.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/sttl_logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -64,7 +64,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -109,7 +109,7 @@ author:
   name             : "Joe Cipolla"
   avatar           : /assets/images/profile_pic__circle.jpg
   # bio              : "deliberately practicing data science, musicianship, and peacemaking"
-  bio              : "Data Science Portfolio"
+  bio              : "Data Science Blog & Portfolio"
   location         : "Houston, TX"
   # email            : JLCipolla@gmail.com
   links:
