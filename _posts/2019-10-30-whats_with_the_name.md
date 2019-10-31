@@ -86,30 +86,35 @@ Skip to 4:53 to see the bean machine normal distribution demonstration.
 <br/><br/>
 ## The Skewed Distribution
 Now that we have our heads wrapped around what "normal" is, we have a better idea of
-what we can do to mess it up. Skewness happens when the curve in the distribution
-starts to lean one way or another. Often the median and the mean start to diverge,
-and you see different sized tails in the distribution.
+what makes something not normal. Skewness happens when the peak of the curve of the distribution
+starts to lean one way or another, or the top of the "bell". Often the median
+and the mean start to diverge as well, and you start to see tails in the distribution
+with different sizes.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/pisa.jpg">
 
 The plot below shows what negative skewness, or data that is skewed to the left,
 looks like.  The majority of the data can be found on the right side of the plot.
 The probability of randomly sampling a single value from this distribution is much
-higher for higher values.
+higher for higher values. Whereas smaller values are less likely. That, in essence,
+is what it means for data to be skewed to the left.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/left_skewed_distribution.png">
 
-This dataset has a mean of 4.04, standard deviation of 0.61, and skew of -0.88. With
-a positive mean, and negative skew, values below zero are much less likely to occur.
-profits and losses (PnL) on trading strategies that look like this. Often times we
-are happy to find PnL distributions that only slightly lean to the right.
+This dataset has a mean of 4.04, a standard deviation of 0.61, and a skew of -0.88. With
+a positive mean, and negative skew, values below zero are very unlikely to occur.
+Profits and losses (PnL) distributions on trading strategies that look like this
+are very appealing. Often times we are happy to find PnL distributions that only
+slightly lean to the right. If I were able to establish a trading strategy with a
+shape like the plot above (and with literally no downside) I would be a very lucky man.
 
 While many modern applications of machine learning attempt to avoid the statistical assumptions
 made by traditional regression methods like [ordinary least squares](https://en.wikipedia.org/wiki/Ordinary_least_squares), there are still plenty of algorithms that require data
-be normalized (or made to be similar to a normal distribution) first before being fed into
+be normalized first (transformed to be similar to a normal distribution) before being fed into
 the model. Because many of these statistically-reliant approaches are often less
 computationally expensive and easier to deploy, it would behoove any data scientist to
-at least first test their prediction problems using these methods before running to TensorFlow.
+at least test their prediction problems using these methods first before running to
+TensorFlow or extensive hyper-parameter tuning in XGBoost.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/left_skewed_boxplot.png">
-You may find similarities between this boxplot and my site logo, or you may not.
+You may find similarities between this boxplot and my logo, or you may not.
