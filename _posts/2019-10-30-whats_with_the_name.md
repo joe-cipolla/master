@@ -4,7 +4,7 @@ date: 2019-10-30
 tags: [data science, statistics, visualizations]
 excerpt: "statistical explanation of skewness"
 header:
-  image: /assets/images/skewed/pisa.jpg
+  image: /assets/images/skewed/pisa_head.jpg
   teaser: /assets/images/skewed/pisa.jpg
 ---
 
