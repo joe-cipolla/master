@@ -53,18 +53,21 @@ decrease the farther you get away from 0.
 Another way to display a distribution is by using a boxplot. I like bloxplots
 because they reduce the amount of information the user has to digest, and therefore
 can speed up analysis and decision making. I personally can be distracted very easily
-by outliers and distribution tails, spending inordinate hypothesizing and thinking
-about them, when most decisions are usually made using the majority of the data.
+by outliers and distribution tails, spending an inordinate amount of time
+hypothesizing and thinking about them, when most decisions are usually made
+using the majority of the data in the middle anyways.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/annotated_box_plot.jpg">
 
 As shown above, a boxplot is composed of:
-- box in the middle, which represents the Interquartile Range (IQR) or 25th to 75th
-percentiles of the dataset
-- line in the center of the box, representing the median of the data
-- horizontal line, which usually represents the remaining 99% of the data, although
-that can vary between 95% to 99% depending on the statistician / programming package
-- dots / symbols on the ends of the horizontal line, signifying the remaining 1% of
+- a box in the middle, which represents the Interquartile Range (IQR) or 25th to 75th
+percentile of the dataset
+- a vertical line in the center of the box, representing the median of the data
+- a horizontal line, which usually represents the remaining 99% of the data, although
+that can vary between 95% to 99% depending on the statistician / programming package.
+In other words, 99% of the data can be found between the vertical line on the
+far left and the vertical line on the far right.
+- dots or symbols on the ends of the horizontal line, signifying the remaining 1% of
 data - commonly referred to as outliers
 
 The importance of the normal distribution to statistical theory can't be stressed enough.
@@ -74,18 +77,20 @@ different bodies of data will behave. It sits at the core of scientific discover
 from physics to psychology to computing.
 
 This video does a great job explaining random event sampling and the tendency of
-the natural world to measured as a normal distribution. It's also pretty fun to see
-the way they explained this stuff "back in the old days" before modern computing. Skip to
-4:53 to see the bean machine normal distribution demonstration.
+various parts of the natural world to be measured as normal distributions. It's also pretty fun to see
+the way they explained this stuff "back in the old days" before modern computing.
+
+Skip to 4:53 to see the bean machine normal distribution demonstration.
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/351443264" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
 <br/><br/>
 ## The Skewed Distribution
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/pisa.png">
 Now that we have our heads wrapped around what "normal" is, we have a better idea of
 what we can do to mess it up. Skewness happens when the curve in the distribution
 starts to lean one way or another. Often the median and the mean start to diverge,
 and you see different sized tails in the distribution.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/pisa.jpg">
 
 The plot below shows what negative skewness, or data that is skewed to the left,
 looks like.  The majority of the data can be found on the right side of the plot.
