@@ -4,8 +4,8 @@ date: 2019-10-30
 tags: [data science, statistics, visualizations]
 excerpt: "statistical explanation of skewness"
 header:
-  image: /assets/images/skewed/graffiti.jpg
-  teaser: /assets/images/skewed/graffiti.jpg
+  image: /assets/images/skewed/pisa.jpg
+  teaser: /assets/images/skewed/pisa.jpg
 ---
 
 What does it mean to be skewed to the left? And why would I name my site that?
@@ -90,8 +90,6 @@ what makes something not normal. Skewness happens when the peak of the curve of 
 starts to lean one way or another, or the top of the "bell". Often the median
 and the mean start to diverge as well, and you start to see tails in the distribution
 with different sizes.
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/pisa.jpg">
 
 The plot below shows what negative skewness, or data that is skewed to the left,
 looks like.  The majority of the data can be found on the right side of the plot.
