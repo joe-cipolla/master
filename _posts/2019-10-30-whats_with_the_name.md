@@ -56,7 +56,7 @@ can speed up analysis and decision making. I personally can be distracted very e
 by outliers and distribution tails, spending inordinate hypothesizing and thinking
 about them, when most decisions are usually made using the majority of the data.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/annotated_box_plot.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/annotated_box_plot.jpg">
 
 As shown above, a boxplot is composed of:
 - box in the middle, which represents the Interquartile Range (IQR) or 25th to 75th
