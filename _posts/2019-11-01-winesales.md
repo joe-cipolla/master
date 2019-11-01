@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning: Wine Sales Prediction"
-date: 2019-10-28
+date: 2019-11-01
 tags: [machine learning, regression, xgboost]
 header:
   image: /assets/images/winesales/header.jpg
