@@ -4,7 +4,7 @@
 <!-- Courtesy of embedresponsively.com //-->
 <div class="responsive-video-container">
 {% if video_provider == "vimeo" %}
-  <iframe src="https://player.vimeo.com/video/{{ video_id }}?autoplay=1&loop=1&title=0&byline=0&portrait=0&dnt=true&muted=1&controls=false&transparent=false" width="900" height="506" frameborder="0" allow="autoplay; fullscreen" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  <iframe src="https://player.vimeo.com/video/{{ video_id }}?autoplay=1&loop=1&title=0&byline=0&portrait=0&dnt=0&muted=1&transparent=0&controls=0" width="900" height="506" frameborder="0" allow="autoplay; fullscreen" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
 {% elsif video_provider == "google-drive" %}
