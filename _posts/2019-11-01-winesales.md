@@ -45,6 +45,7 @@ The histograms above are colored with the original TARGET variable values, equal
 The next step in the project was to prepare the data for the various modeling techniques. Because of the predictive importance of the STARS variable, one of the most important data transformations that took place was the imputation of missing STARS values. Not only did the high proportion of TARGET = 0 observations occur with STARS = 1, these non-selling wines also made up a larger proportion of the missing STARS values. Due to this, the missing STARS values were imputed using 0, to represent no rating at all.
 
 <br/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/winesales/grape_stomping.jpg" alt="grape stompin'">
 ## Data Prep
 In order to have a clean dataset that could be ingested into the various modeling methods, a few of the variables had to undergo some transformations, including imputation. This is the process of filling in (imputing) missing values with replacement values, subject to the logic of the modeler. Most of the modeling techniques experimented within this report either fail when presented with missing data, or they exclude the entire observation from the model if there are any variables with missing values.
 
@@ -55,8 +56,6 @@ However, in order to give each model a high amount of visibility into the qualit
 
 The only exception to this was the STARS variable, which was imputed with a 0, as the most likely reason the STARS variable was missing a value was thought to be that the wine actually did not receive a rating at all. Because of the large amount of wines that had missing STARS values as well as had a 0 TARGET value, it seemed appropriate to delineate the STARS as a 0 rather than the mean, to reinforce the predictive effect in the model. The new imputed variables are signified by a leading “IMP_” before the variable name.
 
-<br/><br/>
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/winesales/grape_stomping.jpg" alt="grape stompin'">
 ### Transformation
 One of the main reasons we transform our data before modeling is to make sure the data adheres the various models' assumptions. For example, linear regression assumes that all of the differences between predictions and actual values (referred to as errors) are homoscedastic, or randomly distributed with no relationship to either the target or predictor variables. Because of this, several of the variables were normalized. (This is the process of transforming the underlying variable values into Z-scores, or the distance of an observation from the mean of the variable.) Below are plots of four of the chemical measurement variables in their untransformed state.
 
