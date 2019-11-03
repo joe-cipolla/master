@@ -33,10 +33,8 @@ just another way to say "collection" or "group".
 
 The normal distribution can be described with a few qualities, namely its mean
 and standard deviation. It's mean, or average, is 0, and it's standard deviation is 1.
-The standard deviation is simply a measure of a dataset's variability, or how
-much different you can expect one value in the dataset to be different from another value.
-To really understand standard deviation well you need to manually do the math or
-follow along with an example like on [wikipedia](https://en.wikipedia.org/wiki/Standard_deviation).
+The standard deviation is simply a measure of a dataset's variability, or how different you can expect one value to be from another value. To really understand standard deviation well you need to manually do the math or
+follow along with an [example](https://en.wikipedia.org/wiki/Standard_deviation).
 
 Intuitively, the approach is to calculate the mean (average) of a group of data,
 and then measure how different each data point is from that mean. The average difference
