@@ -33,6 +33,7 @@ Major - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor - Accounting
 <br/><br/>
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Technical Experience</span>
+<br/><br/>
 **Talen Energy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Woodlands, TX <br />
 *Senior Quantitative Risk Analyst* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2020 – Present
 * Maintaining and improving stochastic power generation model used to value generation asset 
