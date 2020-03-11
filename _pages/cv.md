@@ -33,9 +33,17 @@ Major - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor - Accounting
 <br/><br/>
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Technical Experience</span>
+**Talen Energy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Woodlands, TX <br />
+*Senior Quantitative Risk Analyst* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2020 – Present
+* Maintaining and improving stochastic power generation model used to value generation asset 
+  portfolio, and direct option delta hedging requirements
+* Performing scenario analysis, parameter stress testing and project power project valuations 
+  via disparate enterprise data SQL queries, data wrangling, and custom Python code
+* Building position, limits, PnL and risk monitoring dashboards in Tableau
 
+<br/><br/>
 **M Lawrence Capital LLC** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
-*Managing Member* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2018 – Present
+*Founder* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 2018 – December 2019
 *	Developing and deploying Python-based machine learning trading system for short term power markets
   including PJM, SPP, MISO, and ERCOT
 *	ETL of fundamental data (prices, load, generation, weather, flows, etc.) into cloud storage
