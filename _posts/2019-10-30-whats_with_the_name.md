@@ -29,7 +29,8 @@ Most people have heard of the "normal" Gaussian distribution, often referred to
 as the "bell curve" because of it's bell-like shape. A distribution is really
 just another way to say "collection" or "group".
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/normal_distribution.png">
+[comment]: <> (<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/normal_distribution.png">)
+![normal_distribution](https://joe-cipolla.github.io/assets/images/skewed/normal_distribution.png)
 
 The normal distribution can be described with a few qualities, namely its mean
 and standard deviation. It's mean, or average, is 0, and it's standard deviation is 1.
@@ -55,7 +56,8 @@ by outliers and distribution tails, spending an inordinate amount of time
 hypothesizing and thinking about them, when most decisions are usually made
 using the majority of the data in the middle anyways.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/annotated_box_plot.jpg">
+[comment]: <> (<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/annotated_box_plot.jpg">)
+![box_plot](https://joe-cipolla.github.io/assets/images/skewed/annotated_box_plot.jpg)
 
 As shown above, a boxplot is composed of:
 - a box in the middle, which represents the Interquartile Range (IQR) or 25th to 75th
@@ -95,7 +97,8 @@ The probability of randomly sampling a single value from this distribution is mu
 higher for higher values. Whereas smaller values are less likely. That, in essence,
 is what it means for data to be skewed to the left.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/left_skewed_distribution.png">
+[comment]: <> (<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/left_skewed_distribution.png">)
+![left_skewed_dist](https://joe-cipolla.github.io/assets/images/skewed/left_skewed_distribution.png)
 
 This dataset has a mean of 4.04, a standard deviation of 0.61, and a skew of -0.88. With
 a positive mean, and negative skew, values below zero are very unlikely to occur.
@@ -112,5 +115,8 @@ computationally expensive and easier to deploy, it would behoove any data scient
 at least test their prediction problems using these methods first before running to
 TensorFlow or extensive hyper-parameter tuning in XGBoost.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/left_skewed_boxplot.png">
+[comment]: <> (<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skewed/left_skewed_boxplot.png">)
+![left_skewed_box](https://joe-cipolla.github.io/assets/images/skewed/left_skewed_boxplot.png)
+
 You may find similarities between this boxplot and my logo, or you may not.
+
