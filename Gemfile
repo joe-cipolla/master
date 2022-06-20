@@ -11,12 +11,12 @@ source "https://rubygems.org"
 # Happy Jeklling!
 
 
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 # to upgrade, run 'bundle update'.
 
 # gem "jekyll", "~> 3.7"
-gem "github-pages"
+# gem "github-pages"
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
@@ -27,5 +27,5 @@ gem "minimal-mistakes-jekyll"
 #   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
-group :jekyll_plugins do
-end
+# group :jekyll_plugins do
+# end
