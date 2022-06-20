@@ -34,13 +34,12 @@ Major - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor - Accounting
 - - - -
 <span style="font-family:sans-serif; font-size:1.5em;">Technical Experience</span>
 <br/><br/>
-**Talen Energy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Woodlands, TX <br />
-*Senior Quantitative Risk Analyst* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2020 – Present
-* Maintaining and improving stochastic power generation model used to value generation asset 
-  portfolio, and direct option delta hedging requirements
-* Performing scenario analysis, parameter stress testing and project power project valuations 
-  via disparate enterprise data SQL queries, data wrangling, and custom Python code
-* Building position, limits, PnL and risk monitoring dashboards in Tableau
+**Dynasty Power** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
+*Data Scientst / Quant* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2022 – Present
+
+<br/><br/>
+**Trafigura** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
+*Data Scientst / Quant* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2020 – April 2022
 
 <br/><br/>
 **M Lawrence Capital LLC** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Houston, TX <br />
@@ -114,5 +113,4 @@ Major - Finance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor - Accounting
 
 <br/><br/>
 - - - -
-**Email:** JLCipolla@gmail.com
-**Phone:** +1 713.751.9765
+**Email:** joe@joe-cipolla.com
