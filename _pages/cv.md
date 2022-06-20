@@ -7,7 +7,7 @@ author_profile: true
 <span style="font-family:sans-serif; font-size:2em;">Joe Cipolla </span> <br />
 Website: [skewedtotheleft.com](https://skewedtotheleft.com ) <br />
 Github: [github.com/joe-cipolla](https://github.com/joe-cipolla) <br />
-Email: JLCipolla@gmail.com <br />
+Email: joe@joe-cipolla.com <br />
 Houston, TX USA
 {: style="text-align: center;"}
 - - - -
