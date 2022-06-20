@@ -15,8 +15,8 @@ source "https://rubygems.org"
 
 # to upgrade, run 'bundle update'.
 
-gem "jekyll", "~> 3.7"
-# gem "github-pages"
+# gem "jekyll", "~> 3.7"
+gem "github-pages"
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
